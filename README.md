@@ -12,6 +12,6 @@ Android App Developer
 - 第30回全国高等専門学校プログラミングコンテスト
 
 ## Conference
-- DevRelKaigi 2025
+- DevRelKaigi 2025 登壇
 
 ![mito's github stats](https://github-readme-stats.vercel.app/api?username=mitohato14&count_private=true&theme=radical)
